@@ -12,7 +12,7 @@ FizzleDorf rentry guide explaining how it works: https://rentry.org/AnimAnon-Loo
 My guide on how to use it from a not so technical perspective, and adding elements on how to interpolate the results in FlowFrames (Free+Paid), Adobe After Effects (Paid), Adobe Express (Free), and DaVinci Resolve (Paid), can be found on Reddit:
 https://www.reddit.com/r/StableDiffusion/comments/12ivf5y/loopback_wave_workflows_film_ae_flowframes/
 
-Also, attaching here two batch scripts used to renmae the files in the directories or pad them with zero for windows and via Python.
+Also, attaching here two batch scripts used to renmae the files in the directories or pad them with zero for windows.
 
 0.bat - will pad files with zero as the output from the Loopback wave script starts naming files from 1, 2, 3... and that create 
 rnm.bat - will rename from based on creation date in that folder. 
